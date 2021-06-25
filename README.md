@@ -1,10 +1,10 @@
 # HanyangRun
-(HanyangRun is just a code name, not a final name)
+(HanyangRun is just a code name, not a final name)<br>
 OOPARTS Summer platformer team ArtWork repository<br>
 team: 홍성문, 현재, 이유민, 장준혁<br>
-mentor:홍성문
-Programmer: 현재, 이유민
-Artist: 장준혁
+mentor:홍성문<br>
+Programmer: 현재, 이유민<br>
+Artist: 장준혁<br>
 
 <p>
 <h3>강의목록</h3>
